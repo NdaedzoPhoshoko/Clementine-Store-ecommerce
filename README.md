@@ -3,6 +3,7 @@
 Production-focused full-stack e-commerce platform built with React and Node.js/Express.
 
 Live website (frontend): https://clementine-store.vercel.app/
+Backend is integrated and hosted on Render.
 
 ## Highlights
 
@@ -13,26 +14,29 @@ Live website (frontend): https://clementine-store.vercel.app/
 - Responsive UI optimized for desktop, tablet, and mobile.
 
 ## Screenshots
-
-Add your best 4-6 screenshots here.
-
-Recommended set:
 - Home page
+  <img width="1298" height="535" alt="image" src="https://github.com/user-attachments/assets/89628691-9237-4b89-974a-06e109ee18a2" />
+
 - Shop/filters page
+  <img width="1297" height="613" alt="image" src="https://github.com/user-attachments/assets/75028f55-f1c8-495a-b588-01c2d2b63869" />
+
 - Product detail page
-- Cart + checkout page
-- Account/orders page
-- Admin dashboard page
+  <img width="1298" height="615" alt="image" src="https://github.com/user-attachments/assets/b7ff8348-6b87-4ab7-be0f-9c631eeb30b0" />
 
-Example markdown:
+- Cart page
+  <img width="1299" height="614" alt="image" src="https://github.com/user-attachments/assets/385b4102-2ef2-44a6-811b-622da6ffdb70" />
 
-```md
-![Home](./screenshots/home.png)
-![Shop](./screenshots/shop.png)
-![Product Details](./screenshots/product-details.png)
-![Checkout](./screenshots/checkout.png)
-![Admin Dashboard](./screenshots/admin-dashboard.png)
-```
+- Payment Page
+  <img width="1295" height="614" alt="image" src="https://github.com/user-attachments/assets/36f8a396-f9d1-4faa-b3b5-f71df51efdd4" />
+
+- User Account
+  <img width="1291" height="611" alt="image" src="https://github.com/user-attachments/assets/e3038d90-7f2c-4bcc-8391-6eced2b52f7a" />
+
+- Admin Dashboard + Add New Order
+  <img width="1294" height="614" alt="image" src="https://github.com/user-attachments/assets/7367b322-0b34-425b-84a7-2a41eb537033" />
+
+- NavBar + Product Ads
+  <img width="1291" height="588" alt="image" src="https://github.com/user-attachments/assets/c4580b8b-21ba-4e64-8f87-885fda97e266" />
 
 ## Tech Decisions
 
