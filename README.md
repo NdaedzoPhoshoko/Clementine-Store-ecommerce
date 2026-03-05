@@ -2,7 +2,7 @@
 
 Production-focused full-stack e-commerce platform built with React and Node.js/Express.
 
-Live website (frontend): https://clementine-store.vercel.app/
+Live website (frontend): https://clementine-store.vercel.app/ (wait for 30seconds to restart free hosted backend web service)
 Backend is integrated and hosted on Render.
 
 ## Highlights
