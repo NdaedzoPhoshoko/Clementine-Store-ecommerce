@@ -279,6 +279,9 @@ CLOUDINARY_API_SECRET=your_api_secret
 IMAGE_COMPRESSION_QUALITY=60
 ```
 
+## License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
 Notes:
 - Use distinct JWT secrets.
 - Restrict admin env values to trusted accounts only.
